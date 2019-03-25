@@ -8,3 +8,5 @@ Try to change the parameters in the notebook, to see if you can get the agent to
 - [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/abs/1509.06461)
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
 - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+
+The files have been run in Google Colab including OpenAI gym and its rendering.
